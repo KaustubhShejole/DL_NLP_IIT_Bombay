@@ -1,5 +1,6 @@
 # CS772 — Natural Language Processing  
 ### Authors: Kaustubh Shivshankar Shejole (24M2109) and Shalaka Thorat (24M0848)
+---
 
 ## Assignments & Project — Repository README
 
