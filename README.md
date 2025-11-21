@@ -20,41 +20,7 @@ Problem statements (local copies):
 
 ## Repository Structure
 
-├── Assignment_1_POS_Tagger/
-│ ├── data/
-│ ├── notebooks/
-│ ├── code/
-│ │ ├── hmm_pos.py
-│ │ ├── rnn_pos.py
-│ │ └── llm_prompting_pos.py
-│ ├── models/
-│ ├── results/
-│ └── README.md
-│
-├── Assignment_2_Transliteration/
-│ ├── data/
-│ ├── code/
-│ │ ├── lstm_translit.py
-│ │ ├── transformer_translit.py
-│ │ └── llm_translit_prompt.py
-│ ├── models/
-│ ├── evaluation/
-│ │ ├── eval_word_accuracy.py
-│ │ └── eval_char_f1.py
-│ └── README.md
-│
-├── NLP_Project_MT/
-│ ├── data/
-│ ├── code/
-│ │ ├── prepare_punc_data.py
-│ │ ├── punc_tagging_model.py
-│ │ └── mt_finetune.py
-│ ├── baselines/
-│ ├── results/
-│ └── README.md
-│
-├── requirements.txt
-└── README.md
+Will be updated.
 
 
 
