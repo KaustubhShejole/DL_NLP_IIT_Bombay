@@ -81,6 +81,13 @@ While specific accuracy metrics (like Character Error Rate or Word Error Rate) w
 * **Error Analysis:** Understood how output errors manifest in a transliteration setting (e.g., subtle differences in *matras* or specific character choices).
 * **Task Difficulty:** Realized that transliteration, despite appearing simple, is a difficult task due to ambiguities in phonetic mapping and the need to maintain orthographic conventions.
 
+
+## Demo
+
+1. [LSTM Transliteration](https://huggingface.co/spaces/Kaustubh12345/CS772_Transliteration_lstm_Kaustubh)  
+2. [Transformer Transliteration](https://huggingface.co/spaces/thenlpresearcher/CS772_Transliteration_Transformer_Shalaka_Kaustubh)
+
+
 ## 🔗 References
 
 * **Corpus:** Aksharantar Corpus [https://ai4bharat.org/](https://ai4bharat.org/)
