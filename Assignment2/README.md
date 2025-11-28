@@ -83,11 +83,13 @@ While specific accuracy metrics (like Character Error Rate or Word Error Rate) w
 
 
 
-## PPT Link
+## 🔗 PPT Link
 Access the presentation at this [link](https://docs.google.com/presentation/d/1Xk2MkffWfL9ED9miP-0vNSHGrmeFmNYK1MkfElNcYIc/edit?usp=sharing)
 
 
-## Demo
+## 🌐 Demo
+
+A live demonstration of the project, showcasing the best-performing models, has been hosted on Huggingface Spaces.
 
 1. [LSTM Transliteration](https://huggingface.co/spaces/Kaustubh12345/CS772_Transliteration_lstm_Kaustubh)  
 2. [Transformer Transliteration](https://huggingface.co/spaces/thenlpresearcher/CS772_Transliteration_Transformer_Shalaka_Kaustubh)
