@@ -82,6 +82,11 @@ While specific accuracy metrics (like Character Error Rate or Word Error Rate) w
 * **Task Difficulty:** Realized that transliteration, despite appearing simple, is a difficult task due to ambiguities in phonetic mapping and the need to maintain orthographic conventions.
 
 
+
+## PPT Link
+Access the presentation at this [link](https://docs.google.com/presentation/d/1Xk2MkffWfL9ED9miP-0vNSHGrmeFmNYK1MkfElNcYIc/edit?usp=sharing)
+
+
 ## Demo
 
 1. [LSTM Transliteration](https://huggingface.co/spaces/Kaustubh12345/CS772_Transliteration_lstm_Kaustubh)  
