@@ -16,7 +16,7 @@ This repository contains two major project assignments completed for the **CS772
 
 ### 📚 Project Summary
 
-The assignments focus on implementing, training, and rigorously comparing different models to solve fundamental NLP tasks.
+The assignments focus on implementing, training, and rigorously comparing different models to solve fundamental NLP tasks. Please refer to readme files and ppts in respective folders for more details. 
 
 | Assignment | Topic | Goal | Models Implemented | Key Concepts Highlighted |
 | :--- | :--- | :--- | :--- | :--- |
