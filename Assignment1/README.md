@@ -126,7 +126,7 @@ This understanding of data handling, evaluation, and dynamic programming is dire
 
 
 ## PPT Link
-[https://docs.google.com/presentation/d/18aFsNBDpJjkloGXCC3jJM_qrR3lheyVPl0f9gy1FnWQ/edit?usp=sharing]
+Access the presentation at this link[https://docs.google.com/presentation/d/18aFsNBDpJjkloGXCC3jJM_qrR3lheyVPl0f9gy1FnWQ/edit?usp=sharing]
 
 
 ## 🔗 References
