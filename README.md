@@ -27,6 +27,7 @@ The assignments focus on implementing, training, and rigorously comparing differ
 
 ### 📂 Repository Structure
 
+```
 .
 ├── aksharantar_sampled/
 │   ├── asm/
@@ -70,6 +71,7 @@ The assignments focus on implementing, training, and rigorously comparing differ
         ├── models/
         └── predictions/
 
+```
 ---
 
 ### ⭐ Comparative Analysis & Key Learnings
