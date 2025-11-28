@@ -29,47 +29,46 @@ The assignments focus on implementing, training, and rigorously comparing differ
 
 .
 ├── aksharantar_sampled/
-│   ├── asm/
-│   ├── ben/
-│   ├── brx/
-│   ├── guj/
-│   ├── hin/
-│   ├── kan/
-│   ├── kas/
-│   ├── kok/
-│   ├── mai/
-│   ├── mal/
-│   ├── mar/
-│   ├── mni/
-│   ├── ori/
-│   ├── pan/
-│   ├── san/
-│   ├── sid/
-│   ├── tam/
-│   ├── tel/
-│   └── urd/
+│   ├── asm/
+│   ├── ben/
+│   ├── brx/
+│   ├── guj/
+│   ├── hin/
+│   ├── kan/
+│   ├── kas/
+│   ├── kok/
+│   ├── mai/
+│   ├── mal/
+│   ├── mar/
+│   ├── mni/
+│   ├── ori/
+│   ├── pan/
+│   ├── san/
+│   ├── sid/
+│   ├── tam/
+│   ├── tel/
+│   └── urd/
 ├── aks_dataset/
-│   └── hin/
+│   └── hin/
 ├── Assignment1/
-│   ├── comparison_with_gpt5/
-│   ├── final_hmm/
-│   ├── final_llm/
-│   ├── final_lstm/
-│   └── lstm2/
+│   ├── comparison_with_gpt5/
+│   ├── final_hmm/
+│   ├── final_llm/
+│   ├── final_lstm/
+│   └── lstm2/
 └── Assignment2/
-    ├── CS772_Transformer_Transliteration_Shalaka_Kaustubh/ # Transformer Codebase
-    │   ├── .gradio/
-    │   └── models/
-    ├── CS772_Transliteration_bi_lstm/ # Bi-LSTM Codebase
-    │   ├── .gradio/
-    │   └── models/
-    ├── dataset/
-    ├── final_llm/
-    │   └── .gradio/
-    └── notebooks/
-        ├── models/
-        └── predictions/
-
+    ├── CS772_Transformer_Transliteration_Shalaka_Kaustubh/ # Transformer Codebase
+    │   ├── .gradio/
+    │   └── models/
+    ├── CS772_Transliteration_bi_lstm/ # Bi-LSTM Codebase
+    │   ├── .gradio/
+    │   └── models/
+    ├── dataset/
+    ├── final_llm/
+    │   └── .gradio/
+    └── notebooks/
+        ├── models/
+        └── predictions/
 
 ---
 
