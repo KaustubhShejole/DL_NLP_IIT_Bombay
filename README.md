@@ -58,12 +58,6 @@ The assignments focus on implementing, training, and rigorously comparing differ
 │   ├── final_lstm/
 │   └── lstm2/
 └── Assignment2/
-    ├── CS772_Transformer_Transliteration_Shalaka_Kaustubh/ # Transformer Codebase
-    │   ├── .gradio/
-    │   └── models/
-    ├── CS772_Transliteration_bi_lstm/ # Bi-LSTM Codebase
-    │   ├── .gradio/
-    │   └── models/
     ├── dataset/
     ├── final_llm/
     │   └── .gradio/
