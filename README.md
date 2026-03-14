@@ -9,7 +9,6 @@ This repository contains two major project assignments completed for the **CS772
 * **Course:** CS772 - Deep Learning for Natural Language Processing
 * **Institution:** IIT Bombay
 * **Authors:**
-    * Shalaka Thorat (24M0848)
     * Kaustubh Shivshankar Shejole (24M2109)
 
 ---
